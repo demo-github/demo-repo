@@ -1,3 +1,4 @@
 Hello World!
 This is some text!
-I added some test!
+I added a third line!
+And a fourth line!
